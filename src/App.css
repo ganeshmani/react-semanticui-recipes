@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+.row {
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  margin-top: 50px;
+}
+
+.search-input {
+  width: 50%;
+  margin: 0 30px;
+}
+
+.drop-down {
+  width: 20% !important;
+}
