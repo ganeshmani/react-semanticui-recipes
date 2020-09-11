@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-semanticui-recipes/static/css/main.77f5ab99.chunk.css",
+    "main.js": "/react-semanticui-recipes/static/js/main.955e8700.chunk.js",
+    "main.js.map": "/react-semanticui-recipes/static/js/main.955e8700.chunk.js.map",
+    "runtime-main.js": "/react-semanticui-recipes/static/js/runtime-main.8c2ae6c5.js",
+    "runtime-main.js.map": "/react-semanticui-recipes/static/js/runtime-main.8c2ae6c5.js.map",
+    "static/css/2.d195b239.chunk.css": "/react-semanticui-recipes/static/css/2.d195b239.chunk.css",
+    "static/js/2.ef1ebb08.chunk.js": "/react-semanticui-recipes/static/js/2.ef1ebb08.chunk.js",
+    "static/js/2.ef1ebb08.chunk.js.map": "/react-semanticui-recipes/static/js/2.ef1ebb08.chunk.js.map",
+    "index.html": "/react-semanticui-recipes/index.html",
+    "precache-manifest.b22a9d5ec772637cd3c30a5d3a443e19.js": "/react-semanticui-recipes/precache-manifest.b22a9d5ec772637cd3c30a5d3a443e19.js",
+    "service-worker.js": "/react-semanticui-recipes/service-worker.js",
+    "static/css/2.d195b239.chunk.css.map": "/react-semanticui-recipes/static/css/2.d195b239.chunk.css.map",
+    "static/css/main.77f5ab99.chunk.css.map": "/react-semanticui-recipes/static/css/main.77f5ab99.chunk.css.map",
+    "static/js/2.ef1ebb08.chunk.js.LICENSE.txt": "/react-semanticui-recipes/static/js/2.ef1ebb08.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/react-semanticui-recipes/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c2ae6c5.js",
+    "static/css/2.d195b239.chunk.css",
+    "static/js/2.ef1ebb08.chunk.js",
+    "static/css/main.77f5ab99.chunk.css",
+    "static/js/main.955e8700.chunk.js"
+  ]
+}
